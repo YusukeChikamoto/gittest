@@ -1,7 +1,7 @@
 conflicttest
 
-xxxxxxxxxxxxxxxxxxx
+xxxxxccxxxxxxxxxxxx
 
 
-今週の目標
+来週の目標
 テストをガンバる
