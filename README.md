@@ -1,1 +1,3 @@
 # gittest
+
+- conflictをいろいろと試しています。
